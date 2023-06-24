@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2023-06-24T08:06:04.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="-hjEDUBC6xTTOO7ofTPt" version="21.4.0" type="device">
+  <diagram name="Page-1" id="p66TvMcl0RsqeV4ABMDc">
+    <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-1" target="_8NUbsmoJOji2zT5kaU6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-1" target="_8NUbsmoJOji2zT5kaU6-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-1" value="Nhập T,C,P" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-2" target="_8NUbsmoJOji2zT5kaU6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-2" value="Nếu T = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-5" target="_8NUbsmoJOji2zT5kaU6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-5" value="Lấy C x P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-7" value="thể hiện số tờ cần để in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-10" target="_8NUbsmoJOji2zT5kaU6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-10" value="Nếu T = 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_8NUbsmoJOji2zT5kaU6-11" target="_8NUbsmoJOji2zT5kaU6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8NUbsmoJOji2zT5kaU6-11" value="Lấy C x P / 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
